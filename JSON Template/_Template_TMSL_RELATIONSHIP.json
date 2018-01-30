@@ -1,0 +1,10 @@
+{
+    "name": "%RELATIONSHIPNAME%",
+    "fromTable": "%FROMTABLE%",
+    "fromColumn": "%FROMCOLUMN%",
+    "fromCardinality": "%FROMCARDINALITY%",
+    "toTable": "%TOTABLE%",
+    "toColumn": "%TOCOLUMN%",
+    "toCardinality": "%TOCARDINALITY%",
+    "isActive": %ISACTIVE%
+}

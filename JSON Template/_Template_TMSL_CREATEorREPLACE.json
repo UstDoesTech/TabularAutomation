@@ -1,0 +1,5 @@
+{
+  "createOrReplace": {
+    "object": {
+      "database": "%TABULARMODELNAME%"
+    },

@@ -1,0 +1,7 @@
+{
+    "name": "%TABULARCOLUMN%",
+    "dataType": "%TABULARDATATYPE%",
+    "isHidden": %HIDDENCOLUMN%,
+    "sourceColumn": "%SOURCECOLUMN%",
+    "sourceProviderType": "%SOURCEDATATYPE%"
+}
