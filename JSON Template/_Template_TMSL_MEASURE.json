@@ -1,6 +1,0 @@
-{
-    "name": "%MEASURENAME%",
-    "expression": "%MEASUREEXPRESSION%",
-    "formatString": "%MEASUREFORMAT%",
-    "isHidden": %HIDDENCOLUMN%
-}
