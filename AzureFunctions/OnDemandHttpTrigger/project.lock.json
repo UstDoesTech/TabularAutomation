@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.6": {
+      "Microsoft.AnalysisServices.retail.amd64/15.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/net45/Microsoft.AnalysisServices.Core.dll": {},
+          "lib/net45/Microsoft.AnalysisServices.SPClient.Interfaces.dll": {},
+          "lib/net45/Microsoft.AnalysisServices.Tabular.Json.dll": {},
+          "lib/net45/Microsoft.AnalysisServices.Tabular.dll": {},
+          "lib/net45/Microsoft.AnalysisServices.dll": {}
+        },
+        "runtime": {
+          "lib/net45/Microsoft.AnalysisServices.Core.dll": {},
+          "lib/net45/Microsoft.AnalysisServices.SPClient.Interfaces.dll": {},
+          "lib/net45/Microsoft.AnalysisServices.Tabular.Json.dll": {},
+          "lib/net45/Microsoft.AnalysisServices.Tabular.dll": {},
+          "lib/net45/Microsoft.AnalysisServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.AnalysisServices.retail.amd64/15.0.2": {
+      "sha512": "R+2TucmiPfqvYySSg+VtENB/5CbTcC9gHWeOxbAiaYQl5Nre+XyAc3yZO7rXVm6mdqCtWFiDrCO4MeeJBxmb+Q==",
+      "type": "package",
+      "path": "microsoft.analysisservices.retail.amd64/15.0.2",
+      "files": [
+        "lib/net45/Microsoft.AnalysisServices.Core.dll",
+        "lib/net45/Microsoft.AnalysisServices.Core.xml",
+        "lib/net45/Microsoft.AnalysisServices.SPClient.Interfaces.dll",
+        "lib/net45/Microsoft.AnalysisServices.SPClient.Interfaces.xml",
+        "lib/net45/Microsoft.AnalysisServices.Tabular.Json.dll",
+        "lib/net45/Microsoft.AnalysisServices.Tabular.Json.xml",
+        "lib/net45/Microsoft.AnalysisServices.Tabular.dll",
+        "lib/net45/Microsoft.AnalysisServices.Tabular.xml",
+        "lib/net45/Microsoft.AnalysisServices.dll",
+        "lib/net45/Microsoft.AnalysisServices.xml",
+        "microsoft.analysisservices.retail.amd64.15.0.2.nupkg.sha512",
+        "microsoft.analysisservices.retail.amd64.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "": [],
+    ".NETFramework,Version=v4.6": [
+      "Microsoft.AnalysisServices.retail.amd64 >= 15.0.2"
+    ]
+  },
+  "tools": {},
+  "projectFileToolGroups": {},
+  "packageFolders": {
+    "D:\\home\\data\\Functions\\packages\\nuget": {}
+  }
+}

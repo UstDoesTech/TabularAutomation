@@ -1,0 +1,9 @@
+{
+  "frameworks": {
+    "net46":{
+      "dependencies": {
+        "Microsoft.AnalysisServices.retail.amd64": "15.0.2"
+      }
+    }
+   }
+}
