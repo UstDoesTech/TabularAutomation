@@ -70,3 +70,12 @@ class Dataset:
         response_json = response.json()
         return response_json
     
+    def update_storage_mode(self, storage_mode):
+        url = f"https://api.powerbi.com/v1.0/myorg/groups/{self.workspace_id}/datasets/{self.dataset_id}"
+        header = auth.get_header()
+        data = {
+            "targetStorageMode": storage_mode
+        }
+        response = requests.patch(url, headers=header, data=json.dumps(data))
+        response_json = response.json()
+        return response_json
